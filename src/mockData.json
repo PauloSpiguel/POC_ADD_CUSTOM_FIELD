@@ -1,0 +1,42 @@
+{
+  "unit_id": [
+    {
+      "id": "sdcjsndjcnsd",
+      "name": "Uni."
+    },
+    {
+      "id": "sdcjsndssjcnsd",
+      "name": "ML"
+    }
+  ],
+  "brand_id": [
+    {
+      "id": "sdcjsddndjcnsd",
+      "name": "Brand 1"
+    },
+    {
+      "id": "dddwedwed",
+      "name": "Brand 2"
+    }
+  ],
+  "supplier_id": [
+    {
+      "id": "sdcjsdd11ddndjcnsd",
+      "name": "Supplier 1"
+    },
+    {
+      "id": "1122dddwedwed",
+      "name": "Supplier 2"
+    }
+  ],
+  "category_id": [
+    {
+      "id": "sdcj2222sdd11ddndjcnsd",
+      "name": "Category 1"
+    },
+    {
+      "id": "1222122dddwedwed",
+      "name": "Category 2"
+    }
+  ]
+}
